@@ -6,4 +6,4 @@
 	<li><a href="#"> Português </a></li>
 </ul>
 
-<img src="#">
+<img src="https://github.com/leostella97/devops-overview/blob/main/img/roadmap.png?raw=true">
