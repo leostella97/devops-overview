@@ -7,3 +7,6 @@
 </ul>
 
 <img src="https://github.com/leostella97/devops-overview/blob/main/img/roadmap.png?raw=true">
+
+## Philosophy and Principies
+### Colaboration and Comunication
